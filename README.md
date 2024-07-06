@@ -1,15 +1,15 @@
 ## Hi there 👋
-
-In chinese, as the saying goes, Teacher is a diligent gardener.
-Currently, I'm a gardener working on Shenzhen Longgang NO.2 Vocational School
-I often tell my students:
-Have responsibilities, 
-Have dreams and hope,
-Fight for ourselves,
-Fight for families,
-Fight for friends,
-Enjoy now,
-Imagine the future.
+  
+In chinese, as the saying goes, Teacher is a diligent gardener.  
+Currently, I'm a gardener working on Shenzhen Longgang NO.2 Vocational School.  
+I often tell my students:  
+Have responsibilities,  
+Have dreams and hope,  
+Fight for ourselves,  
+Fight for families,  
+Fight for friends,  
+Enjoy now,  
+Imagine the future.  
 
 
 <!--
